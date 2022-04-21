@@ -18,15 +18,17 @@ void catalogos (void )
 
 	cout << "indica que opcion va a seleccionar: " << endl;
 
-	cout << "(1)facultades ---" << endl;
+	cout << "(1)facultades -------------------------" << endl;
 
-	cout << "(2)carreras-------" << endl;
+	cout << "(2)carreras----------------------------" << endl;
 
-	cout << "(3)cursos ------" << endl;
+	cout << "(3)carreras----------------------------" << endl;
 
-	cout << "(4)aulas-------------------------------" << endl;
+	cout << "(4)cursos -----------------------------" << endl;
 
-	cout << "(5)salir-------------------------------" << endl;
+	cout << "(5)aulas-------------------------------" << endl;
+
+	cout << "(6)salir-------------------------------" << endl;
 
 	cout << "su opcion a elegir es: " << endl;
 
@@ -34,7 +36,7 @@ void catalogos (void )
 
 	cout << endl << endl;
 
-	}while(selection1 !=5);
+	}while(selection1!=6);
 }
 
 
