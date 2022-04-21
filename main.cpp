@@ -20,7 +20,7 @@ int main (){
 	 menu_general();
      menu1();
 
-}while(selection !=4);
+}while(selection !=5);
     return 0;
 
 
@@ -39,13 +39,15 @@ void menu_general (void )
 	cout << "indica que opcion va a seleccionar: " << endl;
 
 
-	cout << "(1)Catalogos---" << endl;
+	cout << "(1)Catalogos---------------------------" << endl;
 
-	cout << "(2)Procesos-------" << endl;
+	cout << "(2)Procesos----------------------------" << endl;
 
-	cout << "(3)Informes------" << endl;
+	cout << "(3)Informes----------------------------" << endl;
 
-	cout << "(4)salir-------------------------------" << endl;
+	cout << "(4)reportes----------------------------" << endl;
+
+	cout << "(5)salir-------------------------------" << endl;
 
 	cout << "su opcion a elegir es: " << endl;
 
@@ -82,6 +84,12 @@ void menu1()
 		break;
 
 		case 4:
+
+
+
+		break;
+
+		case 5:
 		   cout << "--------------QUE TENGA UN BUEN DIA--------------"<< endl;
 		break;
 
