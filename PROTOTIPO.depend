@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650574348 source:c:\users\marlon\documents\c+2022\prototipop12p2022\catalogos.cpp
+
+1650574762 source:c:\users\marlon\documents\c+2022\prototipop12p2022\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1650574648 source:c:\users\marlon\documents\c+2022\prototipop12p2022\menugeneral.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

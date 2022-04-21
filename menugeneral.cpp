@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 using namespace std;
-int selection;
+
 void menu_general (void )
 {
 
@@ -17,6 +17,7 @@ void menu_general (void )
 
 	cout << "indica que opcion va a seleccionar: " << endl;
 
+
 	cout << "(1)Catalogos---" << endl;
 
 	cout << "(2)Procesos-------" << endl;
@@ -27,7 +28,7 @@ void menu_general (void )
 
 	cout << "su opcion a elegir es: " << endl;
 
-	cin >> selection;
+
 
 	cout << endl << endl;
 
