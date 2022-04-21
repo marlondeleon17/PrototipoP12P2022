@@ -6,6 +6,7 @@ using namespace std;
 void menu_general( );
 void catalogos ();
 void procesos ();
+void informes ();
 void menu1 ();
 int selection;
 
@@ -76,7 +77,7 @@ void menu1()
 
 		case 3:
 
-
+		    informes();
 
 		break;
 
@@ -89,5 +90,3 @@ void menu1()
 		break;
    }
 }
-
-
